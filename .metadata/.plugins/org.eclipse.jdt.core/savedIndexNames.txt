@@ -1,0 +1,4 @@
+INDEX VERSION 1.126+C:\Users\Carmen\Desktop\PruebaPhoneGap\.metadata\.plugins\org.eclipse.jdt.core
+3286180161.index
+3251249088.index
+1048887453.index
